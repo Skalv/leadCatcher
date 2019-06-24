@@ -1,0 +1,6 @@
+# App platform binaries and built files
+/platforms
+
+# Dependencies
+/node_modules
+
